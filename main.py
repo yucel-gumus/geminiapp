@@ -7,7 +7,7 @@ from flask import Flask, jsonify, request, send_file, send_from_directory
 # 🔥 FILL THIS OUT FIRST! 🔥
 # 🔥 GET YOUR GEMINI API KEY AT 🔥
 # 🔥 https://g.co/ai/idxGetGeminiKey 🔥
-API_KEY = 'AIzaSyBZTLK-t2Wf7OTuqflTd6fFyxJnDa0k3ck'
+API_KEY = 'API_KEY'
 
 genai.configure(api_key=API_KEY)
 
